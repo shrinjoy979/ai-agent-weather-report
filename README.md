@@ -8,13 +8,13 @@ This project demonstrates how to build a simple AI agent that can use external t
 
 ## Features
 
-- 🤖 Google Gemini 2.5 Flash integration
-- 🧠 ReAct-style reasoning (Plan → Action → Observation → Output)
-- 🛠 Tool calling architecture
-- 🌤 Weather lookup tool
-- 💬 Interactive CLI
-- 🔷 Built with TypeScript
-- ⚡ Easily extensible with new tools
+- Google Gemini 2.5 Flash integration
+- ReAct-style reasoning (Plan → Action → Observation → Output)
+- Tool calling architecture
+- Weather lookup tool
+- Interactive CLI
+- Built with TypeScript
+- Easily extensible with new tools
 
 ---
 
