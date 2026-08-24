@@ -1,3 +1,5 @@
+<img width="313" height="204" alt="Screenshot 2026-08-25 at 1 28 23 AM" src="https://github.com/user-attachments/assets/31023a72-1507-4eae-8f8b-84561fda15f6" />
+
 # AI Weather Agent (TypeScript + Gemini)
 
 An AI-powered command-line weather agent built with **TypeScript** and **Google Gemini 2.5 Flash**. The agent follows the **ReAct (Reasoning + Acting)** pattern by planning, calling tools, observing the results, and generating the final response.
