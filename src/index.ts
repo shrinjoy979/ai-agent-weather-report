@@ -66,7 +66,20 @@ function toGeminiMessage(role: "user" | "model", text: string) {
     };
 }
 
+function printBanner() {
+    console.log(`
+   ____ _                 _       
+  / ___| | ___  _   _  __| |_   _ 
+ | |   | |/ _ \\| | | |/ _\` | | | |
+ | |___| | (_) | |_| | (_| | |_| |
+  \\____|_|\\___/ \\__,_|\\__,_|\\__, |
+                            |___/ 
+`);
+}
+
 async function main() {
+    printBanner();
+
     while (true) {
         const query = readlineSync.question(">> ");
 
